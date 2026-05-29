@@ -1,7 +1,8 @@
 import { ImageResponse } from "next/og";
 import { siteConfig } from "@/lib/seo";
 
-export const runtime = "edge";
+// No edge runtime: the free-plan Edge size limit is 1 MB and next/og exceeds it.
+// Parameterless → Next prerenders this as a static image at build (no function).
 export const alt = `${siteConfig.name} · ${siteConfig.tagline}`;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";

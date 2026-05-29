@@ -1,8 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import { Loader2 } from "lucide-react";
 import { DottedHeader } from "@/components/dotted-header";
 import { BackLink } from "@/components/back-link";
 import { SearchableSelect } from "@/components/searchable-select";
@@ -40,6 +41,8 @@ export default function BuscarPage() {
     setYearCode("");
   }
 
+  const [isNavigating, startNavigation] = useTransition();
+
   // Prefetch the ficha route as soon as the FIPE code resolves.
   useEffect(() => {
     if (handleQ.data) {
@@ -49,6 +52,14 @@ export default function BuscarPage() {
 
   const ready = Boolean(handleQ.data);
   const resolving = Boolean(yearCode) && handleQ.isLoading;
+
+  // useTransition keeps isNavigating true until the ficha's server component
+  // (which fetches FIPE data) finishes loading — giving real click feedback.
+  function goToFicha() {
+    if (handleQ.data) {
+      startNavigation(() => router.push(`/carro/${handleQ.data!.fipeCode}`));
+    }
+  }
 
   return (
     <div className="min-h-screen bg-background px-6 py-16">
@@ -115,19 +126,28 @@ export default function BuscarPage() {
           {yearCode && (
             <>
               {ready && handleQ.data ? (
-                <Link
-                  href={`/carro/${handleQ.data.fipeCode}`}
-                  prefetch
-                  className="inline-flex items-center justify-center w-full px-8 py-4 bg-[#3B82F6] hover:bg-[#60A5FA] text-[#FAFAFA] font-medium rounded-lg transition-colors"
+                <button
+                  type="button"
+                  onClick={goToFicha}
+                  disabled={isNavigating}
+                  className="inline-flex items-center justify-center gap-2 w-full px-8 py-4 bg-[#3B82F6] hover:bg-[#60A5FA] text-[#FAFAFA] font-medium rounded-lg transition-colors disabled:cursor-wait disabled:hover:bg-[#3B82F6]"
                 >
-                  Ver ficha →
-                </Link>
+                  {isNavigating ? (
+                    <>
+                      <Loader2 className="h-4 w-4 animate-spin" aria-hidden />
+                      Abrindo ficha…
+                    </>
+                  ) : (
+                    "Ver ficha →"
+                  )}
+                </button>
               ) : (
                 <button
                   type="button"
                   disabled
-                  className="inline-flex items-center justify-center w-full px-8 py-4 bg-[#3B82F6]/60 text-[#FAFAFA] font-medium rounded-lg cursor-wait"
+                  className="inline-flex items-center justify-center gap-2 w-full px-8 py-4 bg-[#3B82F6]/60 text-[#FAFAFA] font-medium rounded-lg cursor-wait"
                 >
+                  <Loader2 className="h-4 w-4 animate-spin" aria-hidden />
                   {resolving ? "Resolvendo código FIPE…" : "Aguardando…"}
                 </button>
               )}

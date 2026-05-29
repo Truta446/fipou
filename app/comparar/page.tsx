@@ -16,8 +16,8 @@ import { DottedHeader } from "@/components/dotted-header";
 import { BackLink } from "@/components/back-link";
 import { VehicleCard } from "@/components/vehicle-card";
 import { SearchableSelect } from "@/components/searchable-select";
-import { useVehicle, useVehiclesBatch } from "@/lib/queries/hooks";
-import { FEATURED_FIPE_CODES } from "@/lib/featured";
+import { useVehicle } from "@/lib/queries/hooks";
+import { VEHICLE_OPTIONS } from "@/lib/catalog/options";
 import { Skeleton } from "@/components/ui/skeleton";
 
 type Row = {
@@ -102,7 +102,6 @@ function CompararContent() {
   const codeA = searchParams.get("a") ?? "";
   const codeB = searchParams.get("b") ?? "";
 
-  const optionsQ = useVehiclesBatch(FEATURED_FIPE_CODES);
   const vehicleA = useVehicle(codeA || undefined).data;
   const vehicleB = useVehicle(codeB || undefined).data;
 
@@ -112,15 +111,6 @@ function CompararContent() {
     else params.delete(side);
     router.replace(`/comparar?${params.toString()}`, { scroll: false });
   }
-
-  const options = useMemo(
-    () =>
-      optionsQ.data.map((v) => ({
-        value: v.fipeCode,
-        label: `${v.brand} ${v.model}`,
-      })),
-    [optionsQ.data],
-  );
 
   const rows = useMemo(
     () => (vehicleA && vehicleB ? buildRows(vehicleA, vehicleB) : null),
@@ -143,16 +133,16 @@ function CompararContent() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
         <Side
           vehicle={vehicleA}
-          options={options}
-          loading={optionsQ.isLoading}
+          options={VEHICLE_OPTIONS}
+          loading={false}
           placeholder="Selecione o primeiro veículo"
           onChoose={(c) => setSide("a", c)}
           onClear={() => setSide("a", "")}
         />
         <Side
           vehicle={vehicleB}
-          options={options}
-          loading={optionsQ.isLoading}
+          options={VEHICLE_OPTIONS}
+          loading={false}
           placeholder="Selecione o segundo veículo"
           onChoose={(c) => setSide("b", c)}
           onClear={() => setSide("b", "")}
