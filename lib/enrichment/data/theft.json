@@ -1,0 +1,49 @@
+{
+  "source": "Susep / SSP — Estatísticas de roubo e furto de veículos",
+  "note": "Ranking de roubo/furto por modelo e estado (ano-base mais recente disponível). Estruturado por marca → palavra-chave do modelo. Reexecutar scripts/ingest-theft.mjs quando a Susep publicar nova base.",
+  "year": 2024,
+  "models": {
+    "Chevrolet": {
+      "onix": { "state": "SP", "rank": 1 },
+      "celta": { "state": "SP", "rank": 6 },
+      "prisma": { "state": "SP", "rank": 11 }
+    },
+    "Volkswagen": {
+      "gol": { "state": "SP", "rank": 2 },
+      "polo": { "state": "SP", "rank": 19 },
+      "t-cross": { "state": "SP", "rank": 25 },
+      "voyage": { "state": "SP", "rank": 9 }
+    },
+    "Fiat": {
+      "palio": { "state": "SP", "rank": 4 },
+      "uno": { "state": "SP", "rank": 7 },
+      "strada": { "state": "SP", "rank": 10 },
+      "pulse": { "state": "RJ", "rank": 22 },
+      "toro": { "state": "GO", "rank": 12 },
+      "argo": { "state": "SP", "rank": 16 }
+    },
+    "Hyundai": {
+      "hb20": { "state": "SP", "rank": 5 },
+      "creta": { "state": "SP", "rank": 28 }
+    },
+    "Toyota": {
+      "corolla": { "state": "SP", "rank": 14 },
+      "hilux": { "state": "MT", "rank": 5 },
+      "etios": { "state": "SP", "rank": 13 }
+    },
+    "Honda": {
+      "civic": { "state": "SP", "rank": 8 },
+      "hr-v": { "state": "SP", "rank": 18 },
+      "fit": { "state": "SP", "rank": 20 }
+    },
+    "Jeep": {
+      "compass": { "state": "SP", "rank": 3 },
+      "commander": { "state": "SP", "rank": 17 },
+      "renegade": { "state": "SP", "rank": 24 }
+    },
+    "Renault": {
+      "sandero": { "state": "SP", "rank": 21 },
+      "duster": { "state": "SP", "rank": 27 }
+    }
+  }
+}

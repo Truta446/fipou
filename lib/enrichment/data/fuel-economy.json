@@ -1,0 +1,63 @@
+{
+  "source": "INMETRO — Programa Brasileiro de Etiquetagem Veicular (PBE Veicular)",
+  "note": "Valores km/l representativos do PBE Veicular (gasolina/etanol cidade·estrada conforme combustível). Estruturado por marca → palavra-chave do modelo. Reexecutar scripts/ingest-fuel-economy.mjs quando o INMETRO publicar nova tabela.",
+  "unit": "km/l",
+  "models": {
+    "Toyota": {
+      "corolla": { "city": 12.0, "road": 14.4 },
+      "hilux": { "city": 8.9, "road": 11.4 },
+      "yaris": { "city": 13.1, "road": 15.0 },
+      "etios": { "city": 13.0, "road": 14.8 }
+    },
+    "Honda": {
+      "civic": { "city": 11.0, "road": 13.6 },
+      "hr-v": { "city": 11.2, "road": 13.5 },
+      "city": { "city": 12.6, "road": 14.5 },
+      "fit": { "city": 12.8, "road": 14.6 }
+    },
+    "Volkswagen": {
+      "polo": { "city": 11.4, "road": 13.9 },
+      "t-cross": { "city": 10.8, "road": 13.2 },
+      "nivus": { "city": 11.0, "road": 13.6 },
+      "virtus": { "city": 11.6, "road": 14.0 },
+      "gol": { "city": 12.0, "road": 14.2 }
+    },
+    "Chevrolet": {
+      "onix": { "city": 13.2, "road": 15.1 },
+      "tracker": { "city": 10.9, "road": 13.4 },
+      "cruze": { "city": 11.2, "road": 14.0 },
+      "spin": { "city": 10.5, "road": 12.8 }
+    },
+    "Fiat": {
+      "pulse": { "city": 10.5, "road": 12.9 },
+      "toro": { "city": 9.7, "road": 12.0 },
+      "strada": { "city": 11.8, "road": 13.6 },
+      "argo": { "city": 12.4, "road": 14.2 },
+      "mobi": { "city": 13.4, "road": 15.0 },
+      "cronos": { "city": 12.2, "road": 14.1 }
+    },
+    "Jeep": {
+      "compass": { "city": 9.8, "road": 12.6 },
+      "commander": { "city": 10.0, "road": 12.9 },
+      "renegade": { "city": 9.9, "road": 12.4 }
+    },
+    "Hyundai": {
+      "hb20": { "city": 12.8, "road": 14.5 },
+      "creta": { "city": 11.6, "road": 13.9 },
+      "tucson": { "city": 9.6, "road": 12.3 }
+    },
+    "Renault": {
+      "kwid": { "city": 13.8, "road": 15.2 },
+      "duster": { "city": 9.7, "road": 12.2 },
+      "sandero": { "city": 11.9, "road": 13.8 }
+    },
+    "Nissan": {
+      "kicks": { "city": 11.4, "road": 13.7 },
+      "versa": { "city": 12.0, "road": 14.1 }
+    },
+    "Ford": {
+      "mustang": { "city": 6.2, "road": 9.4 },
+      "ranger": { "city": 8.6, "road": 11.2 }
+    }
+  }
+}

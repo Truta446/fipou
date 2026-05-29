@@ -1,0 +1,1993 @@
+{
+  "source": "fipe.parallelum.com.br/api/v2 (harvest único)",
+  "count": 331,
+  "detailCalls": 331,
+  "vehicles": [
+    {
+      "fipeCode": "008031-4",
+      "brand": "Audi",
+      "model": "100 S-4 2.2 Avant Turbo",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "008004-7",
+      "brand": "Audi",
+      "model": "80 S2 Avant",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "008210-4",
+      "brand": "Audi",
+      "model": "A1 Sport. S Edition 1.4 TFSI 5p S-tronic",
+      "modelYear": 2017
+    },
+    {
+      "fipeCode": "008314-3",
+      "brand": "Audi",
+      "model": "A3 Sportb. Performance Black 2.0 S-tron.",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "008303-8",
+      "brand": "Audi",
+      "model": "A4 S Line 2.0 16V TFSI Quattro (Híb.)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "008316-0",
+      "brand": "Audi",
+      "model": "A5 Sedan Performance S Edition 2.0 TFSI Quattro",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "008315-1",
+      "brand": "Audi",
+      "model": "A6 Sport. e-tron Perf. Black (Elétrico)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "008268-6",
+      "brand": "Audi",
+      "model": "A7 SP.b. Perf. Bla. 3.0 TFSI Quat. S-tro",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "008199-0",
+      "brand": "Audi",
+      "model": "A8 3.0 TFSI 310cv Quattro Tiptronic 4p",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "008079-9",
+      "brand": "Audi",
+      "model": "Allroad 2.7 30V Quattro Turbo Tiptronic",
+      "modelYear": 2005
+    },
+    {
+      "fipeCode": "008015-2",
+      "brand": "Audi",
+      "model": "Avant RS2",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "008295-3",
+      "brand": "Audi",
+      "model": "E-TRON GT Aut. (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "008305-4",
+      "brand": "Audi",
+      "model": "Q3 SPB Perf.Black Plus 2.0 TFSI Tip.Quat",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "008271-6",
+      "brand": "Audi",
+      "model": "Q5 Sportback S-Line 2.0 TFSI Quattro S-tronic",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "008324-0",
+      "brand": "Audi",
+      "model": "Q6 E-Tron Quattro Sportback Performance Black",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "008308-9",
+      "brand": "Audi",
+      "model": "Q7 S-Line 3.0 V6 TFSI Qua. Tip. (Híb.)  ",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "008251-1",
+      "brand": "Audi",
+      "model": "Q8 Perfo. 3.0 TFSI Quattro S-tron/(Híb.)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "008158-2",
+      "brand": "Audi",
+      "model": "R8 GT 5.2 V10 560cv Quattro R-tronic",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "009171-5",
+      "brand": "BMW",
+      "model": "116iA 1.6 TB 16V 136cv 5p",
+      "modelYear": 2015
+    },
+    {
+      "fipeCode": "009298-3",
+      "brand": "BMW",
+      "model": "118i M Sport 1.5 TB 12V Aut. 5p",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "009169-3",
+      "brand": "BMW",
+      "model": "118iA Full 1.6 TB 16V 170cv 5p",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "009106-5",
+      "brand": "BMW",
+      "model": "120i 2.0 16V 150cv/ 156cv 5p",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "009212-6",
+      "brand": "BMW",
+      "model": "120iA Sport 2.0/ActiveFlex 16V Aut.",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "009176-6",
+      "brand": "BMW",
+      "model": "125i M Sport/Active Flex 2.0 TB Aut. 5p",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "009109-0",
+      "brand": "BMW",
+      "model": "130i 3.0 24V 265cv 5p",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "009126-0",
+      "brand": "BMW",
+      "model": "130iA 3.0 24V 265cv 3p",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "009135-9",
+      "brand": "BMW",
+      "model": "135iA Coupé 3.0 24V 306cv",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "009321-1",
+      "brand": "BMW",
+      "model": "218i Gran Coupe M Sport 1.5 Bi-Turbo",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "009326-2",
+      "brand": "BMW",
+      "model": "220i Gran Coupe M Sport 2.0 TB Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "009208-8",
+      "brand": "BMW",
+      "model": "225i Active Tourer Sport 2.0 TB Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "009059-0",
+      "brand": "BMW",
+      "model": "316 (todas)",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "009189-8",
+      "brand": "BMW",
+      "model": "316i 1.6 TB 16V 136cv 4p",
+      "modelYear": 2015
+    },
+    {
+      "fipeCode": "009061-1",
+      "brand": "BMW",
+      "model": "318i/iA Compact 1.8 16V",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "009155-3",
+      "brand": "BMW",
+      "model": "318iA 2.0 16V 136cv 5p",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "009002-6",
+      "brand": "BMW",
+      "model": "318iS/ISA 1.9 16V",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "009060-3",
+      "brand": "BMW",
+      "model": "318Ti/TiA Compact 1.9 16V",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "095018-1",
+      "brand": "BYD",
+      "model": "Atto 8 1.5 16V Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "095004-1",
+      "brand": "BYD",
+      "model": "D1 EV (Elétrico)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "095010-6",
+      "brand": "BYD",
+      "model": "Dolphin Mini (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "095002-5",
+      "brand": "BYD",
+      "model": "eT3  (Elétrico)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "095003-3",
+      "brand": "BYD",
+      "model": "Han EV  (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "095011-4",
+      "brand": "BYD",
+      "model": "King GS 1.5 16V Aut. (Hibrido)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "095008-4",
+      "brand": "BYD",
+      "model": "Seal (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "095016-5",
+      "brand": "BYD",
+      "model": "SHARK GS 1.5 16V 4x4 Aut. (Híbrido)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "095017-3",
+      "brand": "BYD",
+      "model": "Song Plus Premium 1.5 16V Aut. (Hibrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "095001-7",
+      "brand": "BYD",
+      "model": "TAN EV 4x4 (Elétrico)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "095015-7",
+      "brand": "BYD",
+      "model": "Yuan Pro (Elétrico)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "093019-9",
+      "brand": "Caoa Chery",
+      "model": "ARRIZO 6 PRO Max Drive 1.5 Turbo (Híb.)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "093007-5",
+      "brand": "Caoa Chery",
+      "model": "iCar EQ1 TECH (Elétrico)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "093018-0",
+      "brand": "Caoa Chery",
+      "model": "Tiggo 8 PRO 1.6 TGDi Aut.",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "011230-5",
+      "brand": "Citroën",
+      "model": "AIRCROSS Shine 1.0 Flex TB 200 Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "011248-8",
+      "brand": "Citroën",
+      "model": "AIRCROSS7 XTR 1.0 TB. 200 Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "011001-9",
+      "brand": "Citroën",
+      "model": "AX GTi",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "011246-1",
+      "brand": "Citroën",
+      "model": "BASALT Dark Edition 1.0 TB 200 5p Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "011194-5",
+      "brand": "Citroën",
+      "model": "Berlingo Furgão 1.6 16V Flex 5P",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "011039-6",
+      "brand": "Citroën",
+      "model": "BX GTi 1.9",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "011250-0",
+      "brand": "Citroën",
+      "model": "C3 Live Plus 1.0 6V 5p Mec.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "011229-1",
+      "brand": "Citroën",
+      "model": "C4 CACTUS NOIR 1.6 Turbo Flex Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "011098-1",
+      "brand": "Citroën",
+      "model": "C5 Tourer Exclusive 2.0 16V 5p Aut.",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "011084-1",
+      "brand": "Citroën",
+      "model": "C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "modelYear": 2008
+    },
+    {
+      "fipeCode": "011073-6",
+      "brand": "Citroën",
+      "model": "C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "modelYear": 2005
+    },
+    {
+      "fipeCode": "011149-0",
+      "brand": "Citroën",
+      "model": "DS3 Sport Chic 1.6 TB 16V 3p Mec.",
+      "modelYear": 2017
+    },
+    {
+      "fipeCode": "011148-1",
+      "brand": "Citroën",
+      "model": "DS4 1.6 So Chic Turbo 16V 5p Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "011154-6",
+      "brand": "Citroën",
+      "model": "DS5 1.6 So Chic Turbo 16V 5p Aut.",
+      "modelYear": 2018
+    },
+    {
+      "fipeCode": "011218-6",
+      "brand": "Citroën",
+      "model": "Ë-Jumpy Cargo 136cv (Elétrico)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "011003-5",
+      "brand": "Citroën",
+      "model": "Evasion VSX Turbo",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "011089-2",
+      "brand": "Citroën",
+      "model": "Grand C4 Picasso 2.0 16V 143cv Aut",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "011243-7",
+      "brand": "Citroën",
+      "model": "Jumper Vitré 2.2 Turbo Diesel",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "001123-1",
+      "brand": "Fiat",
+      "model": "147 Pick-Up (todas)",
+      "modelYear": 1988
+    },
+    {
+      "fipeCode": "001429-0",
+      "brand": "Fiat",
+      "model": "500 ABARTH MULTIAIR 1.4 TB 16V 3p",
+      "modelYear": 2015
+    },
+    {
+      "fipeCode": "001541-5",
+      "brand": "Fiat",
+      "model": "500e ICON (Elétrico)",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "001509-1",
+      "brand": "Fiat",
+      "model": "ARGO 1.0 6V Flex",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "001109-6",
+      "brand": "Fiat",
+      "model": "Brava SX 1.6 16V 4p",
+      "modelYear": 2003
+    },
+    {
+      "fipeCode": "001434-6",
+      "brand": "Fiat",
+      "model": "Bravo BlackMotion 1.8 Flex 16v 5p",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "001128-2",
+      "brand": "Fiat",
+      "model": "Cinquecento 0.7",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "001057-0",
+      "brand": "Fiat",
+      "model": "Coupe 16V",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "001555-5",
+      "brand": "Fiat",
+      "model": "CRONOS PRECISION 1.3 8V Flex Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "001456-7",
+      "brand": "Fiat",
+      "model": "Doblo Adv.Ext./Adv.Ext.Loc. 1.8 16V Flex",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "001594-6",
+      "brand": "Fiat",
+      "model": "Ducato Minibus 2.2 Luxo 16L (E6)",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "001130-4",
+      "brand": "Fiat",
+      "model": "Ducato-10 Furgão 2.5 Diesel",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "001095-2",
+      "brand": "Fiat",
+      "model": "Ducato-15 Furgão 2.8 Diesel",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "001131-2",
+      "brand": "Fiat",
+      "model": "Ducato-8 Furgão 2.5 Diesel",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "001129-0",
+      "brand": "Fiat",
+      "model": "Duna 1.6ie",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "001560-1",
+      "brand": "Fiat",
+      "model": "E-Scudo (Elétrico)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "001024-3",
+      "brand": "Fiat",
+      "model": "Elba Weekend 1.5 i.e. 2p e 4p",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "001581-4",
+      "brand": "Fiat",
+      "model": "Fastback Tributo 125 1.0 Turb. Flex Aut ",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "003118-6",
+      "brand": "Ford",
+      "model": "Aerostar Mini-Van 3.8",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "003152-6",
+      "brand": "Ford",
+      "model": "Aspire 1.3",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "003020-1",
+      "brand": "Ford",
+      "model": "Belina L 1.8/ 1.6",
+      "modelYear": 1986
+    },
+    {
+      "fipeCode": "003513-0",
+      "brand": "Ford",
+      "model": "Bronco Sport Badlands 2.0L TB 4WD Aut.",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "003120-8",
+      "brand": "Ford",
+      "model": "Club Wagon XLT 4.9 V6",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "003122-4",
+      "brand": "Ford",
+      "model": "Contour SE/GL/ LX 2.5 24V",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "003128-3",
+      "brand": "Ford",
+      "model": "Corcel II L",
+      "modelYear": 1986
+    },
+    {
+      "fipeCode": "003312-0",
+      "brand": "Ford",
+      "model": "Courier Van 1.6/ 1.6 Flex 8V (Carga)",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "003153-4",
+      "brand": "Ford",
+      "model": "Crown Victoria LX 4.6",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "003023-6",
+      "brand": "Ford",
+      "model": "Del Rey L 1.8 / 1.6 2p e 4p",
+      "modelYear": 1991
+    },
+    {
+      "fipeCode": "003514-9",
+      "brand": "Ford",
+      "model": "E-TRANSIT Furgão Longo Teto Alto (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "003455-0",
+      "brand": "Ford",
+      "model": "EcoSport SE Direct 1.5 Flex 5p Aut.",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "003469-0",
+      "brand": "Ford",
+      "model": "EDGE ST 2.7 V6 24V AWD Aut.",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "003041-4",
+      "brand": "Ford",
+      "model": "Escort XR3 2.0i Conversível",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "003154-2",
+      "brand": "Ford",
+      "model": "Expedition 5.4 V8",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "003074-0",
+      "brand": "Ford",
+      "model": "Explorer XLT 4x4 4.0 V6",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "003189-5",
+      "brand": "Ford",
+      "model": "F-100 Super Série 2.3",
+      "modelYear": 1986
+    },
+    {
+      "fipeCode": "003011-2",
+      "brand": "Ford",
+      "model": "F-1000 XLT/XL Lighting 4.9i",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "004114-9",
+      "brand": "GM - Chevrolet",
+      "model": "A-10 De Luxe 2.5/4.1",
+      "modelYear": 1989
+    },
+    {
+      "fipeCode": "004023-1",
+      "brand": "GM - Chevrolet",
+      "model": "A-20 Custom/ C-20 S 4.1",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "004447-4",
+      "brand": "GM - Chevrolet",
+      "model": "AGILE LTZ EFFECT EASYTR.1.4 8V FlexP. 5p",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "004216-1",
+      "brand": "GM - Chevrolet",
+      "model": "Astra Sedan 1.8 MPFI 8V 4p",
+      "modelYear": 2004
+    },
+    {
+      "fipeCode": "004553-5",
+      "brand": "GM - Chevrolet",
+      "model": "BLAZER EV RS 347cv (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "004545-4",
+      "brand": "GM - Chevrolet",
+      "model": "BOLT EUV Premier 203cv (Elétrico)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "004025-8",
+      "brand": "GM - Chevrolet",
+      "model": "Bonanza S / Luxe 4.1",
+      "modelYear": 1994
+    },
+    {
+      "fipeCode": "004117-3",
+      "brand": "GM - Chevrolet",
+      "model": "Brasinca Blazer CD 4.1",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "004128-9",
+      "brand": "GM - Chevrolet",
+      "model": "C-10 De Luxe CD 2.5/ 4.1",
+      "modelYear": 1989
+    },
+    {
+      "fipeCode": "004132-7",
+      "brand": "GM - Chevrolet",
+      "model": "C-20 Custom Std. CD 4.1",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "004074-6",
+      "brand": "GM - Chevrolet",
+      "model": "Calibra 16V",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "004548-9",
+      "brand": "GM - Chevrolet",
+      "model": "Camaro SS Collection 6.2 V8 16V",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "004135-1",
+      "brand": "GM - Chevrolet",
+      "model": "Caprice Victoria",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "004563-2",
+      "brand": "GM - Chevrolet",
+      "model": "CAPTIVA EV Premier",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "004137-8",
+      "brand": "GM - Chevrolet",
+      "model": "Caravan L/SL/S/SS 2.5/4.1/4.2",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "004139-4",
+      "brand": "GM - Chevrolet",
+      "model": "Cavalier L 2.0",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "004445-8",
+      "brand": "GM - Chevrolet",
+      "model": "Celta ADVANTAGE 1.0 8v FlexPower 5p",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "004030-4",
+      "brand": "GM - Chevrolet",
+      "model": "Chevette L / SL / SL/e / DL / SE 1.6",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "096016-0",
+      "brand": "GWM",
+      "model": "Haval H6 35 1.5 AWD",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "096011-0",
+      "brand": "GWM",
+      "model": "Ora 03 ",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "096013-6",
+      "brand": "GWM",
+      "model": "Poer P30 Trail 2.4 16V Turbo 4X4 Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "096009-8",
+      "brand": "GWM",
+      "model": "Tank 300 2.0 16V AWD Aut.(Hibrido)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "096015-2",
+      "brand": "GWM",
+      "model": "Wey 07 1.5 Turbo AWD",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "014105-4",
+      "brand": "Honda",
+      "model": "Accord Sedan 2.0 TB 16V Aut. (Híbrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "014118-6",
+      "brand": "Honda",
+      "model": "CITY Hatchback Touring Sport 1.5 16V Aut",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "014113-5",
+      "brand": "Honda",
+      "model": "Civic Type-R 2.0 Turbo 16V",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "014117-8",
+      "brand": "Honda",
+      "model": "CR-V Touring 2.0 16V AWD Aut.(Híbrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "014045-7",
+      "brand": "Honda",
+      "model": "Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "014110-0",
+      "brand": "Honda",
+      "model": "HR-V EXL 1.5 Flex Sensing 16V 5p Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "014022-8",
+      "brand": "Honda",
+      "model": "Odyssey Van LX Aut (6 lug.)",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "014026-0",
+      "brand": "Honda",
+      "model": "Passport PIck-Up 4x2",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "014013-9",
+      "brand": "Honda",
+      "model": "Prelude Si",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "014104-6",
+      "brand": "Honda",
+      "model": "WR-V LX 1.5 Flexone 16V 5p Aut.",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "014114-3",
+      "brand": "Honda",
+      "model": "ZR-V Touring 2.0 16V 5p Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "015004-5",
+      "brand": "Hyundai",
+      "model": "Accent LS 4p",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "015034-7",
+      "brand": "Hyundai",
+      "model": "Atos Prime GLS 1.0 Semi-Aut.",
+      "modelYear": 2001
+    },
+    {
+      "fipeCode": "015083-5",
+      "brand": "Hyundai",
+      "model": "AZERA 3.0 V6 24V 4p Aut.",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "015053-3",
+      "brand": "Hyundai",
+      "model": "Coupe FX 2.7 V6 24V 180cv Mec.",
+      "modelYear": 2003
+    },
+    {
+      "fipeCode": "015257-9",
+      "brand": "Hyundai",
+      "model": "Creta Ultimate 1.6 TB 16V Flex Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "015015-0",
+      "brand": "Hyundai",
+      "model": "Cupê 2.0",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "015135-1",
+      "brand": "Hyundai",
+      "model": "Elantra Special Edit. 2.0 16V Flex Aut.",
+      "modelYear": 2018
+    },
+    {
+      "fipeCode": "015087-8",
+      "brand": "Hyundai",
+      "model": "EQUUS 4.6 V8 32V 366cv 4p Aut.",
+      "modelYear": 2013
+    },
+    {
+      "fipeCode": "015008-8",
+      "brand": "Hyundai",
+      "model": "Excel LS/ GL",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "015024-0",
+      "brand": "Hyundai",
+      "model": "Galloper 3.0 V6 Super Luxo Mec",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "015084-3",
+      "brand": "Hyundai",
+      "model": "GENESIS 3.8 V6 24V 290cv 4p Aut.",
+      "modelYear": 2013
+    },
+    {
+      "fipeCode": "015108-4",
+      "brand": "Hyundai",
+      "model": "Grand Santa Fé  3.3 V6 4X4 Tiptronic",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "015070-3",
+      "brand": "Hyundai",
+      "model": "H1 Starex SVX 2.4 16V",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "015039-8",
+      "brand": "Hyundai",
+      "model": "H100 Top Diesel",
+      "modelYear": 2001
+    },
+    {
+      "fipeCode": "015251-0",
+      "brand": "Hyundai",
+      "model": "HB20 Limited 1.0 TB Flex 12V Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "015252-8",
+      "brand": "Hyundai",
+      "model": "HB20S Limited 1.0  TB Flex 12V Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "015199-8",
+      "brand": "Hyundai",
+      "model": "HB20X Evol. Bluelink 1.6 Flex 16V Aut.",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "015229-3",
+      "brand": "Hyundai",
+      "model": "HR 2.5 4WD Diesel ",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "017039-9",
+      "brand": "Jeep",
+      "model": "Cherokee Trailhawk 3.2 4x4 V6 Aut.",
+      "modelYear": 2015
+    },
+    {
+      "fipeCode": "017109-3",
+      "brand": "Jeep",
+      "model": "Commander Overland T270 1.3 Turbo Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "017106-9",
+      "brand": "Jeep",
+      "model": "COMPASS Blackhawk Hurricane 2.0 4x4 TB Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "017091-7",
+      "brand": "Jeep",
+      "model": "Gladiator Rubicon 3.6 V6 284 cv",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "017094-1",
+      "brand": "Jeep",
+      "model": "Grand Cherokee 4XE 2.0 T. Aut. (Híbrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "017107-7",
+      "brand": "Jeep",
+      "model": "Renegade SAHARA T270 1.3 Turbo 4x2 Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "017090-9",
+      "brand": "Jeep",
+      "model": "Wrangler Unlimited SAHARA 2.0 TB 4p Aut",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "018001-7",
+      "brand": "Kia Motors",
+      "model": "Besta ST 2.2 Diesel (12lug.)",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "018101-3",
+      "brand": "Kia Motors",
+      "model": "Bongo K-2500 2.5 4x4 TB Diesel",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "018080-7",
+      "brand": "Kia Motors",
+      "model": "CADENZA EX 3.5 V6 24V Aut.",
+      "modelYear": 2017
+    },
+    {
+      "fipeCode": "018067-0",
+      "brand": "Kia Motors",
+      "model": "Carens EX 2.0 16V  Aut.",
+      "modelYear": 2013
+    },
+    {
+      "fipeCode": "018081-5",
+      "brand": "Kia Motors",
+      "model": "Carnival EX 3.5 V6 24V 276/272cv Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "018092-0",
+      "brand": "Kia Motors",
+      "model": "Cerato SX 2.0 16V Flex Aut.",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "018022-0",
+      "brand": "Kia Motors",
+      "model": "Ceres Pick-Up 2.2 Diesel",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "018017-3",
+      "brand": "Kia Motors",
+      "model": "Clarus Wagon GLX 2.0 16V Mec.",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "018103-0",
+      "brand": "Kia Motors",
+      "model": "EV5 Land (Elétrico)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "018104-8",
+      "brand": "Kia Motors",
+      "model": "EV9 GTL (Elétrico)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "018089-0",
+      "brand": "Kia Motors",
+      "model": "Grand Carnival EX 3.3 V6 24V 270cv Aut.",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "018062-9",
+      "brand": "Kia Motors",
+      "model": "Magentis LX 2.0 16V Aut",
+      "modelYear": 2007
+    },
+    {
+      "fipeCode": "018072-6",
+      "brand": "Kia Motors",
+      "model": "MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "018102-1",
+      "brand": "Kia Motors",
+      "model": "Niro SX Rio Limited Edt 1.6 GDI  (Híb.) ",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "018063-7",
+      "brand": "Kia Motors",
+      "model": "Opirus GL 3.8 V6 24V 267cv Aut.",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "018086-6",
+      "brand": "Kia Motors",
+      "model": "OPTIMA 2.0 16V 165cv Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "018090-4",
+      "brand": "Kia Motors",
+      "model": "Picanto GT 1.0 12V Flex Aut.",
+      "modelYear": 2018
+    },
+    {
+      "fipeCode": "018087-4",
+      "brand": "Kia Motors",
+      "model": "QUORIS EX 3.8 V6 24V 294cv Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "033214-3",
+      "brand": "Land Rover",
+      "model": " Range R. VEL. R-Dyn. S 2.0 Aut. (Híbrido)",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "033244-5",
+      "brand": "Land Rover",
+      "model": "Def. 90 X-DY D350 HSE Die. Aut.( Híb.)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "033237-2",
+      "brand": "Land Rover",
+      "model": "Defe. 110 X-DY.HSE D350 Die Aut. (Híb.)",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "033247-0",
+      "brand": "Land Rover",
+      "model": "Defender 110 TROPHY Edition 3.0 D350 4X4 Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "033233-0",
+      "brand": "Land Rover",
+      "model": "Disc. Sp. SE Dyn 2.0 D200 Die.Aut.(Híb.)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "033197-0",
+      "brand": "Land Rover",
+      "model": "Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "033249-6",
+      "brand": "Land Rover",
+      "model": "Discovery Sport Landmark 2.0 4x4 Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "033045-0",
+      "brand": "Land Rover",
+      "model": "Discovery3 SE 2.7 4x4 TDI Diesel Aut.",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "033124-4",
+      "brand": "Land Rover",
+      "model": "Discovery4 GRAPHITE 3.0 4x4 SDV6 Die.Aut",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "033034-5",
+      "brand": "Land Rover",
+      "model": "Freelander HSE3 2.5 V6 24V 177cv 3p",
+      "modelYear": 2005
+    },
+    {
+      "fipeCode": "033088-4",
+      "brand": "Land Rover",
+      "model": "Freelander2 Si4 SE 2.0 240cv Aut. 5p",
+      "modelYear": 2015
+    },
+    {
+      "fipeCode": "033019-1",
+      "brand": "Land Rover",
+      "model": "New Range/Range Rover Vogue 3.9 V8",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "021061-7",
+      "brand": "Mercedes-Benz",
+      "model": "180-D Van 2.4 Diesel",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "021062-5",
+      "brand": "Mercedes-Benz",
+      "model": "190-E 2.3",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021063-3",
+      "brand": "Mercedes-Benz",
+      "model": "230-E 2.3",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021067-6",
+      "brand": "Mercedes-Benz",
+      "model": "260-E 2.6",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021068-4",
+      "brand": "Mercedes-Benz",
+      "model": "300-D 3.0 Diesel",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "021069-2",
+      "brand": "Mercedes-Benz",
+      "model": "300-E 3.0",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021045-5",
+      "brand": "Mercedes-Benz",
+      "model": "300-SE 3.0/3.2",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021070-6",
+      "brand": "Mercedes-Benz",
+      "model": "300-SL 3.0",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021071-4",
+      "brand": "Mercedes-Benz",
+      "model": "300-TE Wagon 3.0",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "021072-2",
+      "brand": "Mercedes-Benz",
+      "model": "500-E 5.0",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021047-1",
+      "brand": "Mercedes-Benz",
+      "model": "500-SEC/ SL",
+      "modelYear": 1994
+    },
+    {
+      "fipeCode": "021074-9",
+      "brand": "Mercedes-Benz",
+      "model": "500-SEL 5.0/ 5.6",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "021075-7",
+      "brand": "Mercedes-Benz",
+      "model": "560-SEL 5.6",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "021521-0",
+      "brand": "Mercedes-Benz",
+      "model": "A 200 AMG Line 1.3 TB Aut. (Híbrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "021414-0",
+      "brand": "Mercedes-Benz",
+      "model": "A-35 AMG Laun. Edition 4MATIC 2.0 TB Aut ",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "021452-3",
+      "brand": "Mercedes-Benz",
+      "model": "A-45  S AMG 4MATIC CGI 2.0 TB Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "021436-1",
+      "brand": "Mercedes-Benz",
+      "model": "C-180 CGI Coupe Sport 1.5 TB 16V Aut.",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "021468-0",
+      "brand": "Mercedes-Benz",
+      "model": "C-200 AMG Line EQ Boost 1.5 TB (Hib.)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "022001-9",
+      "brand": "Mitsubishi",
+      "model": "3000 GT VR-4",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "022097-3",
+      "brand": "Mitsubishi",
+      "model": "Airtrek 2.0 16V TB-IC 202cv 4x4 5p",
+      "modelYear": 2007
+    },
+    {
+      "fipeCode": "022176-7",
+      "brand": "Mitsubishi",
+      "model": "ASX HPE FWD 2.0 16V Flex Aut.",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "022156-2",
+      "brand": "Mitsubishi",
+      "model": "ASX-S 2.0 16V 160cv Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "022003-5",
+      "brand": "Mitsubishi",
+      "model": "Colt GTi Mec",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "022030-2",
+      "brand": "Mitsubishi",
+      "model": "Diamant  LS 3.0 V6",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "022223-2",
+      "brand": "Mitsubishi",
+      "model": "Eclipse Cross Tarmac 1.5 16V TB 165cv Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "022005-1",
+      "brand": "Mitsubishi",
+      "model": "Expo SP Van 2.3 16V",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "022056-6",
+      "brand": "Mitsubishi",
+      "model": "Galant GS 2.0 V6",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "022085-0",
+      "brand": "Mitsubishi",
+      "model": "GRANDIS 2.4 16V 163cv 5p Aut.",
+      "modelYear": 2008
+    },
+    {
+      "fipeCode": "022210-0",
+      "brand": "Mitsubishi",
+      "model": "L200 Tri. S. Outd. Plus 2.4 4x4 Die. Aut",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "022010-8",
+      "brand": "Mitsubishi",
+      "model": "L300 Top/Luxo 2.5 Diesel",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "022148-1",
+      "brand": "Mitsubishi",
+      "model": "Lancer HL-T 2.0 16V 160cv Aut.",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "022033-7",
+      "brand": "Mitsubishi",
+      "model": "Mirage LS",
+      "modelYear": 1994
+    },
+    {
+      "fipeCode": "022046-9",
+      "brand": "Mitsubishi",
+      "model": "Montero 2.8 Diesel",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "022220-8",
+      "brand": "Mitsubishi",
+      "model": "OUTLANDER Signature 2.4 4x4 Aut (Híb)",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "022209-7",
+      "brand": "Mitsubishi",
+      "model": "Pajero Sport Le.Black 2.4 4x4 (Die) Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "022017-5",
+      "brand": "Mitsubishi",
+      "model": "Space Wagon/ GLXi 2.4",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "023051-0",
+      "brand": "Nissan",
+      "model": "350Z 3.5 V6 280cv/ 312cv 2p",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "023124-0",
+      "brand": "Nissan",
+      "model": "ALTIMA SL 2.5 16V 4p Aut.",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "023022-7",
+      "brand": "Nissan",
+      "model": "AX 6.5D Turbo Diesel",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "023023-5",
+      "brand": "Nissan",
+      "model": "D-21 Pick-Up CS 4x2/4x4 2.7 Diesel",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "023185-1",
+      "brand": "Nissan",
+      "model": "Frontier PLATI. CD  2.3 Bi-TB Dies.Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "023151-7",
+      "brand": "Nissan",
+      "model": "GT-R 3.8 V6 BiTurbo Aut.",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "023025-1",
+      "brand": "Nissan",
+      "model": "Infinit 3.0",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "023202-5",
+      "brand": "Nissan",
+      "model": "Kait Sense 1.6 16v Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "023196-7",
+      "brand": "Nissan",
+      "model": "KICKS Exclusive 1.0 Turbo Flex Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "023026-0",
+      "brand": "Nissan",
+      "model": "King-Cab SE 4x4 3.0 V6",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "023163-0",
+      "brand": "Nissan",
+      "model": "LEAF Aut. (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "023099-5",
+      "brand": "Nissan",
+      "model": "LIVINA NIGHT&DAY 1.6 16V Flex Fuel Mec.",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "023150-9",
+      "brand": "Nissan",
+      "model": "MARCH S 1.6 16V FlexStart 5p",
+      "modelYear": 2018
+    },
+    {
+      "fipeCode": "023027-8",
+      "brand": "Nissan",
+      "model": "Maxima SE 3.0 V6",
+      "modelYear": 1994
+    },
+    {
+      "fipeCode": "023028-6",
+      "brand": "Nissan",
+      "model": "Micra 1.0",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "023058-8",
+      "brand": "Nissan",
+      "model": "MURANO SE 3.5 V6 24V 231cv Aut",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "023029-4",
+      "brand": "Nissan",
+      "model": "NX 2000 Targa 2.0",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "023072-3",
+      "brand": "Nissan",
+      "model": "Pathfinder SE 4.0 V6 24V 266cv Aut.",
+      "modelYear": 2008
+    },
+    {
+      "fipeCode": "024002-8",
+      "brand": "Peugeot",
+      "model": "106 XT",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "024288-8",
+      "brand": "Peugeot",
+      "model": "2008 Allure 1.0 Turbo 200 5p Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "024003-6",
+      "brand": "Peugeot",
+      "model": "205 XSi/ Junior 1.4 3p",
+      "modelYear": 1998
+    },
+    {
+      "fipeCode": "024144-0",
+      "brand": "Peugeot",
+      "model": "206 SW Moonlight 1.4 Flex 8V 5p",
+      "modelYear": 2008
+    },
+    {
+      "fipeCode": "024204-7",
+      "brand": "Peugeot",
+      "model": "207 Sedan Allure 1.4 Flex 8v 4p",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "024285-3",
+      "brand": "Peugeot",
+      "model": "208 GT 1.0 Turbo 200 5p Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "024253-5",
+      "brand": "Peugeot",
+      "model": "3008 GT Pack 1.6 Turbo 16V 5p Aut.",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "024008-7",
+      "brand": "Peugeot",
+      "model": "306 XSi 2.0 3/5p",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "024174-1",
+      "brand": "Peugeot",
+      "model": "307 MILLESIM200 1.6 Flex 16V 5p",
+      "modelYear": 2011
+    },
+    {
+      "fipeCode": "024239-0",
+      "brand": "Peugeot",
+      "model": "308 Bus. Pro 1.6 TB Flex 5p Aut.",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "024014-1",
+      "brand": "Peugeot",
+      "model": "405 STi",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "024025-7",
+      "brand": "Peugeot",
+      "model": "406 SVE 3.0 24V",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "024143-1",
+      "brand": "Peugeot",
+      "model": "407 SW Feline 3.0 V6 211cv 5p Aut.",
+      "modelYear": 2009
+    },
+    {
+      "fipeCode": "024241-1",
+      "brand": "Peugeot",
+      "model": "408 Sed. Bus. Pro 1.6 TB Flex Aut.",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "024236-5",
+      "brand": "Peugeot",
+      "model": "5008 Griffe Pack 1.6 Turbo 16V 5p Aut.",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "024050-8",
+      "brand": "Peugeot",
+      "model": "504 GRD 2.3 Diesel",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "024061-3",
+      "brand": "Peugeot",
+      "model": "505 SR/ SRi/ SRX",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "024190-3",
+      "brand": "Peugeot",
+      "model": "508 THP 1.6 Turbo 16V 4p Aut.",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "025031-7",
+      "brand": "Renault",
+      "model": "19 RT 1.8/ 1.8i Conv.",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "025034-1",
+      "brand": "Renault",
+      "model": "21 TXE/ TXi 2.2",
+      "modelYear": 1994
+    },
+    {
+      "fipeCode": "025337-5",
+      "brand": "Renault",
+      "model": "Boreal Techno 1.3 Turbo 16V 5p Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "025273-5",
+      "brand": "Renault",
+      "model": "CAPTUR Life 1.6 16V Flex 5p Aut.",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "025095-3",
+      "brand": "Renault",
+      "model": "Clio Hi-Flex/ Expres. Hi-Flex 1.6 16V 3p",
+      "modelYear": 2006
+    },
+    {
+      "fipeCode": "025325-1",
+      "brand": "Renault",
+      "model": "DUSTER Intense Plus 1.6 16V Flex Mec.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "025012-0",
+      "brand": "Renault",
+      "model": "Express 1.6/ RL 1.6",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "025239-5",
+      "brand": "Renault",
+      "model": "FLUENCE Sedan Expres. 1.6 16V FLEX Mec.",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "025331-6",
+      "brand": "Renault",
+      "model": "Kangoo Advanced 1.6 16V Flex ",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "025334-0",
+      "brand": "Renault",
+      "model": "Kardian Iconic 1.0 TB 12V 5p Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "025340-5",
+      "brand": "Renault",
+      "model": "Koleos E-Tech 1.5 Turbo 16V 5p Aut.",
+      "modelYear": 2027
+    },
+    {
+      "fipeCode": "025339-1",
+      "brand": "Renault",
+      "model": "KWID E-Tech Techno",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "025007-4",
+      "brand": "Renault",
+      "model": "Laguna V6",
+      "modelYear": 2001
+    },
+    {
+      "fipeCode": "025291-3",
+      "brand": "Renault",
+      "model": "LOGAN Zen Flex 1.6 16V 4p Mec.",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "025314-6",
+      "brand": "Renault",
+      "model": "Master 2.3 dCi Pro 16V Diesel",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "025321-9",
+      "brand": "Renault",
+      "model": "Megane E-Tech (Elétrico)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "025330-8",
+      "brand": "Renault",
+      "model": "OROCH Iconic 1.6 Flex 16V Mec.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "025023-6",
+      "brand": "Renault",
+      "model": "Safrane RXE",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "028010-0",
+      "brand": "Suzuki",
+      "model": "Baleno Wagon 1.6 16V Aut.",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "028061-5",
+      "brand": "Suzuki",
+      "model": "Grand Vitara 4SPORT 2.0 16V 4x2 5P Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "028043-7",
+      "brand": "Suzuki",
+      "model": "Ignis WRS 1.3 16V 82cv 4x4 4p",
+      "modelYear": 2003
+    },
+    {
+      "fipeCode": "028083-6",
+      "brand": "Suzuki",
+      "model": "Jimny Sierra 4YOU+ ALLGRIP 1.5 16V Aut.",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "028074-7",
+      "brand": "Suzuki",
+      "model": "S-CROSS 4STYLE-S ALLGRIP 1.4 TB 16V Aut.",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "028002-0",
+      "brand": "Suzuki",
+      "model": "Samurai JX Metal 1.3",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "028003-8",
+      "brand": "Suzuki",
+      "model": "Sidekick Metal",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "028020-8",
+      "brand": "Suzuki",
+      "model": "Super Carry Van/ Furgão 1.0",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "028053-4",
+      "brand": "Suzuki",
+      "model": "Swift Sport R 1.6 16V 5p Mec.",
+      "modelYear": 2015
+    },
+    {
+      "fipeCode": "028057-7",
+      "brand": "Suzuki",
+      "model": "SX4 S-CROSS GLX 1.6 16V Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "028076-3",
+      "brand": "Suzuki",
+      "model": "Vitara 4STYLE ALLGRIP 1.4 TB 16V Aut.",
+      "modelYear": 2022
+    },
+    {
+      "fipeCode": "028016-0",
+      "brand": "Suzuki",
+      "model": "Wagon R+ 1.0 Mec.",
+      "modelYear": 1999
+    },
+    {
+      "fipeCode": "002038-9",
+      "brand": "Toyota",
+      "model": "Avalon XLS 3.0",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "002008-7",
+      "brand": "Toyota",
+      "model": "Band.Picape Chassi Longo Diesel",
+      "modelYear": 2001
+    },
+    {
+      "fipeCode": "002209-8",
+      "brand": "Toyota",
+      "model": "Camry XLE  2.5 16V Aut. (Híbrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "002036-2",
+      "brand": "Toyota",
+      "model": "Celica ST 1.8",
+      "modelYear": 1993
+    },
+    {
+      "fipeCode": "002222-5",
+      "brand": "Toyota",
+      "model": "Corolla GLi 1.8 16V Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "002039-7",
+      "brand": "Toyota",
+      "model": "Corona Mec.",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "002165-2",
+      "brand": "Toyota",
+      "model": "ETIOS X Plus Sedan 1.5 Flex 16V 4p Mec.",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "002227-6",
+      "brand": "Toyota",
+      "model": "Hiace Furgão DX 2.8 TDI Aut.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "002220-9",
+      "brand": "Toyota",
+      "model": "Hilux CS 4x4 2.8 TDI Diesel Aut.",
+      "modelYear": 2025
+    },
+    {
+      "fipeCode": "002081-8",
+      "brand": "Toyota",
+      "model": "Land Cruiser Prado 3.0 4x4 TB Diesel Mec",
+      "modelYear": 2007
+    },
+    {
+      "fipeCode": "002055-9",
+      "brand": "Toyota",
+      "model": "MR-2 Turbo 2.0",
+      "modelYear": 1994
+    },
+    {
+      "fipeCode": "002021-4",
+      "brand": "Toyota",
+      "model": "Paseo",
+      "modelYear": 1996
+    },
+    {
+      "fipeCode": "002056-7",
+      "brand": "Toyota",
+      "model": "Previa LX 2.5",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "002129-6",
+      "brand": "Toyota",
+      "model": "PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "modelYear": 2021
+    },
+    {
+      "fipeCode": "002217-9",
+      "brand": "Toyota",
+      "model": "RAV4 2.5 XSE 4x4 Aut. (Híbrido)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "002023-0",
+      "brand": "Toyota",
+      "model": "Supra",
+      "modelYear": 2007
+    },
+    {
+      "fipeCode": "002058-3",
+      "brand": "Toyota",
+      "model": "T-100 3.4 V6",
+      "modelYear": 1995
+    },
+    {
+      "fipeCode": "002229-2",
+      "brand": "Toyota",
+      "model": "YARIS GR 1.6 Turbo 4x4 Mec.",
+      "modelYear": 2026
+    },
+    {
+      "fipeCode": "005532-8",
+      "brand": "VW - VolksWagen",
+      "model": "AMAROK Comfor. 3.0 V6 TDI 4x4 Dies. Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "005026-1",
+      "brand": "VW - VolksWagen",
+      "model": "Apolo GLS/ Vip 1.8",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "005153-5",
+      "brand": "VW - VolksWagen",
+      "model": "Bora 2.0/ 2.0 Flex 8v Mec.",
+      "modelYear": 2011
+    },
+    {
+      "fipeCode": "005083-0",
+      "brand": "VW - VolksWagen",
+      "model": "Caravelle 2.4 Diesel",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "005117-9",
+      "brand": "VW - VolksWagen",
+      "model": "Corrado G-60 2.8",
+      "modelYear": 1992
+    },
+    {
+      "fipeCode": "005419-4",
+      "brand": "VW - VolksWagen",
+      "model": "CROSSFOX  I MOTION 1.6 T. Flex 16V 5p",
+      "modelYear": 2018
+    },
+    {
+      "fipeCode": "005541-7",
+      "brand": "VW - VolksWagen",
+      "model": "Delivery Express Turbo Diesel (E6)",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "005287-6",
+      "brand": "VW - VolksWagen",
+      "model": "EOS Cab. 2.0 Turbo FSI Tiptronic",
+      "modelYear": 2012
+    },
+    {
+      "fipeCode": "005084-9",
+      "brand": "VW - VolksWagen",
+      "model": "Eurovan 2.4 Diesel",
+      "modelYear": 2000
+    },
+    {
+      "fipeCode": "005482-8",
+      "brand": "VW - VolksWagen",
+      "model": "Fox Connect I Motion 1.6 Flex 8V 5p",
+      "modelYear": 2019
+    },
+    {
+      "fipeCode": "005420-8",
+      "brand": "VW - VolksWagen",
+      "model": "Fusca 2.0 R-Line TSI 16V Aut.",
+      "modelYear": 2016
+    },
+    {
+      "fipeCode": "005539-5",
+      "brand": "VW - VolksWagen",
+      "model": "Gol Last Edition 1.0 Flex 12V 5p",
+      "modelYear": 2023
+    },
+    {
+      "fipeCode": "005519-0",
+      "brand": "VW - VolksWagen",
+      "model": "Golf GTE TSI 1.4 16V Híbrido Aut.",
+      "modelYear": 2020
+    },
+    {
+      "fipeCode": "005168-3",
+      "brand": "VW - VolksWagen",
+      "model": "Grand Saveiro Xtreme/Street  1.6/1.8/2.0",
+      "modelYear": 2003
+    },
+    {
+      "fipeCode": "005517-4",
+      "brand": "VW - VolksWagen",
+      "model": "JETTA GLI 350 TSI 2.0 16V 4p Aut.",
+      "modelYear": 2024
+    },
+    {
+      "fipeCode": "005357-0",
+      "brand": "VW - VolksWagen",
+      "model": "Kombi LAST EDITION 56 1.4 Mi Total Flex",
+      "modelYear": 2014
+    },
+    {
+      "fipeCode": "005047-4",
+      "brand": "VW - VolksWagen",
+      "model": "Logus Wolfsburg Edition 2000i",
+      "modelYear": 1997
+    },
+    {
+      "fipeCode": "005111-0",
+      "brand": "VW - VolksWagen",
+      "model": "New Beetle 2.0 Mi Mec./Aut.",
+      "modelYear": 2010
+    }
+  ]
+}

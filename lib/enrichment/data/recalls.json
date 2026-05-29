@@ -1,0 +1,1665 @@
+{
+  "source": "Senacon/MJ — dados.mj.gov.br (dataset Recall)",
+  "generatedFrom": [
+    "Dados Recall - 2013",
+    "Dados Recall - 2014",
+    "Dados Recall - 2015",
+    "Dados Recall - 2016",
+    "Dados Recall - 2017 "
+  ],
+  "note": "Cobertura oficial 2013–2017. Layered under curated data for recent models.",
+  "brands": {
+    "Audi": [
+      {
+        "date": "2017-07-25",
+        "summary": "Q3 e RSQ3",
+        "severity": "baixa",
+        "modelTokens": [
+          "rsq3",
+          "rsq3"
+        ]
+      },
+      {
+        "date": "2017-04-25",
+        "summary": "Q5 2.0 e SQ5 3.0",
+        "severity": "baixa",
+        "modelTokens": [
+          "sq5",
+          "sq5"
+        ]
+      },
+      {
+        "date": "2017-04-25",
+        "summary": "Audi A3",
+        "severity": "baixa",
+        "modelTokens": [
+          "audi",
+          "audi"
+        ]
+      },
+      {
+        "date": "2017-03-22",
+        "summary": "A4 Avant, A4 Sedã, A5 Cabriolet, A5 Coupé e A5 Sportback",
+        "severity": "alta",
+        "modelTokens": [
+          "avant",
+          "sedã",
+          "cabriolet",
+          "coupé",
+          "sportback",
+          "avant",
+          "sedã",
+          "cabriolet",
+          "coupé",
+          "sportback"
+        ]
+      },
+      {
+        "date": "2017-03-22",
+        "summary": "Audi A4 Sedan 2.0",
+        "severity": "baixa",
+        "modelTokens": [
+          "audi",
+          "sedan",
+          "audi"
+        ]
+      }
+    ],
+    "BMW": [
+      {
+        "date": "2017-11-10",
+        "summary": "BMW X3 3.0si Sport",
+        "severity": "média",
+        "modelTokens": [
+          "bmw",
+          "0si",
+          "sport",
+          "bmw",
+          "0si",
+          "sport"
+        ]
+      },
+      {
+        "date": "2017-09-06",
+        "summary": "BMW R Nine T",
+        "severity": "média",
+        "modelTokens": [
+          "bmw",
+          "nine",
+          "bmw",
+          "nine"
+        ]
+      },
+      {
+        "date": "2017-07-31",
+        "summary": "R1200 GS e R1200 GS Adventure",
+        "severity": "média",
+        "modelTokens": [
+          "r1200",
+          "r1200",
+          "adventure",
+          "r1200",
+          "r1200",
+          "adventure"
+        ]
+      },
+      {
+        "date": "2017-04-17",
+        "summary": "135i Coupé MSport, 335i Cabrio M Sport, 335i M Sport, 535i GT, 535i M Sport, M Coupé e Z4 35i",
+        "severity": "média",
+        "modelTokens": [
+          "135i",
+          "coupé",
+          "msport",
+          "335i",
+          "cabrio",
+          "sport",
+          "335i",
+          "sport",
+          "535i",
+          "535i",
+          "sport",
+          "coupé",
+          "35i",
+          "135i",
+          "coupé",
+          "msport",
+          "335i",
+          "cabrio",
+          "sport",
+          "335i",
+          "sport",
+          "535i",
+          "535i",
+          "sport",
+          "coupé",
+          "35i"
+        ]
+      },
+      {
+        "date": "2017-04-10",
+        "summary": "i3 REX Entry e i3 REX Full",
+        "severity": "alta",
+        "modelTokens": [
+          "rex",
+          "entry",
+          "rex",
+          "full",
+          "rex",
+          "entry",
+          "rex",
+          "full"
+        ]
+      },
+      {
+        "date": "2017-04-07",
+        "summary": "X1 sDrive20i X Line",
+        "severity": "média",
+        "modelTokens": [
+          "sdrive20i",
+          "line",
+          "sdrive20i",
+          "line"
+        ]
+      },
+      {
+        "date": "2017-03-27",
+        "summary": "BMW 320i, BMW 323i, BMW 325i, BMW 325i Coupé, BMW 330i, BMW 330i Cabrio, BMW 525i, 530i, BMW 540i, BMW 540i M Sport, BMW",
+        "severity": "média",
+        "modelTokens": [
+          "bmw",
+          "320i",
+          "bmw",
+          "323i",
+          "bmw",
+          "325i",
+          "bmw",
+          "325i",
+          "coupé",
+          "bmw",
+          "330i",
+          "bmw",
+          "330i",
+          "cabrio",
+          "bmw",
+          "525i",
+          "530i",
+          "bmw",
+          "540i",
+          "bmw",
+          "540i",
+          "sport",
+          "bmw",
+          "bmw",
+          "bmw",
+          "bmw",
+          "bmw",
+          "320i",
+          "323i",
+          "325i",
+          "325",
+          "coupé",
+          "330i",
+          "330i",
+          "cabrio",
+          "525i",
+          "530i",
+          "540i",
+          "540i",
+          "sport"
+        ]
+      },
+      {
+        "date": "2017-02-08",
+        "summary": "BMW, modelo 750i",
+        "severity": "média",
+        "modelTokens": [
+          "bmw",
+          "modelo",
+          "750i",
+          "bmw",
+          "750i"
+        ]
+      },
+      {
+        "date": "2017-01-09",
+        "summary": "BMW 430i Cabrio Sport Limited Edition",
+        "severity": "baixa",
+        "modelTokens": [
+          "bmw",
+          "430i",
+          "cabrio",
+          "sport",
+          "limited",
+          "edition",
+          "bmw",
+          "430i",
+          "cabrio",
+          "sport",
+          "limited",
+          "edition"
+        ]
+      },
+      {
+        "date": "2017-01-05",
+        "summary": "\"BMW, 420i Cabrio Sport GP",
+        "severity": "baixa",
+        "modelTokens": [
+          "bmw",
+          "420i",
+          "cabrio",
+          "sport",
+          "bmw",
+          "brasil",
+          "ltda"
+        ]
+      }
+    ],
+    "Subaru": [
+      {
+        "date": "2017-05-31",
+        "summary": "Subaru Legacy, Outback, Tribeca, Forester e Impreza, WRX e STI",
+        "severity": "baixa",
+        "modelTokens": [
+          "subaru",
+          "legacy",
+          "outback",
+          "tribeca",
+          "forester",
+          "impreza",
+          "wrx",
+          "sti",
+          "subaru",
+          "legacy",
+          "outback",
+          "tribeca",
+          "forester",
+          "impreza",
+          "wrx",
+          "sti"
+        ]
+      },
+      {
+        "date": "2017-01-10",
+        "summary": "Subaru Legacy 2.0, Impreza WRX, STI e Forester Turbo",
+        "severity": "alta",
+        "modelTokens": [
+          "subaru",
+          "legacy",
+          "impreza",
+          "wrx",
+          "sti",
+          "forester",
+          "turbo",
+          "subaru",
+          "legacy",
+          "impreza",
+          "wrx",
+          "sti",
+          "forester",
+          "turbo"
+        ]
+      },
+      {
+        "date": "2017-01-09",
+        "summary": "Subaru Forester 2.5L Turbo",
+        "severity": "alta",
+        "modelTokens": [
+          "subaru",
+          "forester",
+          "turbo",
+          "subaru",
+          "forester",
+          "turbo"
+        ]
+      }
+    ],
+    "Fiat": [
+      {
+        "date": "2017-12-11",
+        "summary": "Fiat Argo",
+        "severity": "média",
+        "modelTokens": [
+          "fiat",
+          "argo",
+          "fiat",
+          "argo"
+        ]
+      },
+      {
+        "date": "2017-12-04",
+        "summary": "FCA JEEP RENEGADE",
+        "severity": "média",
+        "modelTokens": [
+          "fca",
+          "jeep",
+          "renegade",
+          "jeep",
+          "renegade"
+        ]
+      },
+      {
+        "date": "2017-11-13",
+        "summary": "Jeep Grand Cherokee e Dodge Durango",
+        "severity": "média",
+        "modelTokens": [
+          "jeep",
+          "grand",
+          "cherokee",
+          "dodge",
+          "durango",
+          "fiat",
+          "jeep",
+          "grand",
+          "cherokee",
+          "dodge",
+          "durango"
+        ]
+      },
+      {
+        "date": "2017-11-13",
+        "summary": "Fiat Punto, Doblo, Uno, Mobi, Pálio Weekend, Strada, Novo Pálio e Grand Siena",
+        "severity": "média",
+        "modelTokens": [
+          "fiat",
+          "punto",
+          "doblo",
+          "uno",
+          "mobi",
+          "pálio",
+          "weekend",
+          "strada",
+          "novo",
+          "pálio",
+          "grand",
+          "siena",
+          "fiat",
+          "punto",
+          "doblo",
+          "uno",
+          "mobi",
+          "palio",
+          "weekend",
+          "outros"
+        ]
+      },
+      {
+        "date": "2017-11-01",
+        "summary": "Fiat Picape RAM 2500",
+        "severity": "alta",
+        "modelTokens": [
+          "fiat",
+          "picape",
+          "ram",
+          "2500",
+          "picape",
+          "ram",
+          "2500"
+        ]
+      },
+      {
+        "date": "2017-10-09",
+        "summary": "Novo Palio, Palio Weekend, Palio Fire, Uno, Grand Siena, Fiorino, Strada e Mobi",
+        "severity": "média",
+        "modelTokens": [
+          "novo",
+          "palio",
+          "palio",
+          "weekend",
+          "palio",
+          "fire",
+          "uno",
+          "grand",
+          "siena",
+          "fiorino",
+          "strada",
+          "mobi",
+          "novo",
+          "palio",
+          "palio",
+          "weekend",
+          "palio",
+          "fire",
+          "uno",
+          "grand",
+          "siena",
+          "fiorino",
+          "strada",
+          "mobi"
+        ]
+      },
+      {
+        "date": "2017-10-09",
+        "summary": "Toro",
+        "severity": "média",
+        "modelTokens": [
+          "toro",
+          "toro"
+        ]
+      },
+      {
+        "date": "2017-09-25",
+        "summary": "Fiat Freemont e Dodge Journey",
+        "severity": "média",
+        "modelTokens": [
+          "fiat",
+          "freemont",
+          "dodge",
+          "journey",
+          "freemont",
+          "dodge",
+          "journey"
+        ]
+      },
+      {
+        "date": "2017-08-31",
+        "summary": "Chrysler 300, Dodge Charge, Dodge Durango e Jeep Grand Cherokee",
+        "severity": "alta",
+        "modelTokens": [
+          "chrysler",
+          "300",
+          "dodge",
+          "charge",
+          "dodge",
+          "durango",
+          "jeep",
+          "grand",
+          "cherokee",
+          "chrysler",
+          "300",
+          "dodge",
+          "durango",
+          "grand",
+          "cherokee",
+          "dodge",
+          "charger"
+        ]
+      },
+      {
+        "date": "2017-06-26",
+        "summary": "Jeep Renegade",
+        "severity": "média",
+        "modelTokens": [
+          "jeep",
+          "renegade",
+          "jeep",
+          "renegade"
+        ]
+      },
+      {
+        "date": "2017-05-24",
+        "summary": "Bravo, Doblò, Doblò Furgão, Fiorino, Grand Siena, Idea, Linea, Novo Palio, Palio Fire, Palio Weekend, Siena, Strada e Un",
+        "severity": "média",
+        "modelTokens": [
+          "bravo",
+          "doblò",
+          "doblò",
+          "furgão",
+          "fiorino",
+          "grand",
+          "siena",
+          "idea",
+          "linea",
+          "novo",
+          "palio",
+          "palio",
+          "fire",
+          "palio",
+          "weekend",
+          "siena",
+          "strada",
+          "uno",
+          "bravo",
+          "doblò",
+          "doblò",
+          "furgão",
+          "fiorino",
+          "grand",
+          "siena",
+          "idea",
+          "linea",
+          "novo",
+          "palio",
+          "palio",
+          "fire",
+          "palio",
+          "weekend",
+          "siena",
+          "strada",
+          "uno"
+        ]
+      },
+      {
+        "date": "2017-04-03",
+        "summary": "Fiat Uno Firefly e Fiat Strada, ano/modelo 2016/2017",
+        "severity": "média",
+        "modelTokens": [
+          "fiat",
+          "uno",
+          "firefly",
+          "fiat",
+          "strada",
+          "ano",
+          "modelo",
+          "2016",
+          "2017",
+          "fiat",
+          "uno",
+          "firefly",
+          "fiat",
+          "strada",
+          "fiat",
+          "uno",
+          "firefly",
+          "fiat",
+          "strada"
+        ]
+      },
+      {
+        "date": "2017-04-03",
+        "summary": "Jeep Compass e Fiat Toro",
+        "severity": "média",
+        "modelTokens": [
+          "jeep",
+          "compass",
+          "fiat",
+          "toro",
+          "jeep",
+          "compass",
+          "toro"
+        ]
+      },
+      {
+        "date": "2017-01-12",
+        "summary": "Veículos Jeep Wrangler",
+        "severity": "média",
+        "modelTokens": [
+          "veículos",
+          "jeep",
+          "wrangler",
+          "jeep",
+          "wrangler"
+        ]
+      }
+    ],
+    "Ford": [
+      {
+        "date": "2017-09-22",
+        "summary": "Ford F-350 e F-4000",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "350",
+          "4000",
+          "350",
+          "4000"
+        ]
+      },
+      {
+        "date": "2017-09-20",
+        "summary": "FORD, modelos F-350 e F-4000",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "modelos",
+          "350",
+          "4000",
+          "350",
+          "4000"
+        ]
+      },
+      {
+        "date": "2017-09-04",
+        "summary": "Ford Cargo C-2042 e Ford Cargo C-2842",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "cargo",
+          "2042",
+          "ford",
+          "cargo",
+          "2842",
+          "ford",
+          "cargo",
+          "2042",
+          "ford",
+          "cargo",
+          "2842"
+        ]
+      },
+      {
+        "date": "2017-08-29",
+        "summary": "Ford  Fusion",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "fusion",
+          "ford",
+          "fusion"
+        ]
+      },
+      {
+        "date": "2017-08-01",
+        "summary": "Ford F-4000",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "4000",
+          "ford",
+          "4000"
+        ]
+      },
+      {
+        "date": "2017-07-20",
+        "summary": "Troller T4",
+        "severity": "média",
+        "modelTokens": [
+          "troller",
+          "troller"
+        ]
+      },
+      {
+        "date": "2017-05-26",
+        "summary": "Ford Ranger 2015 a 2017",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "ranger",
+          "2015",
+          "2017",
+          "ford",
+          "ranger",
+          "2015",
+          "2017"
+        ]
+      },
+      {
+        "date": "2017-04-26",
+        "summary": "Ford Ranger",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "ranger",
+          "ranger"
+        ]
+      },
+      {
+        "date": "2017-04-24",
+        "summary": "Ford Edge",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "edge",
+          "ford",
+          "edge"
+        ]
+      },
+      {
+        "date": "2017-03-02",
+        "summary": "EcoSport, KA e KA+",
+        "severity": "média",
+        "modelTokens": [
+          "ecosport",
+          "ford",
+          "ecosport"
+        ]
+      },
+      {
+        "date": "2017-01-20",
+        "summary": "Ford Fusion",
+        "severity": "média",
+        "modelTokens": [
+          "ford",
+          "fusion",
+          "ford",
+          "fusion"
+        ]
+      }
+    ],
+    "Chevrolet": [
+      {
+        "date": "2017-09-11",
+        "summary": "Chevrolet Spin",
+        "severity": "alta",
+        "modelTokens": [
+          "chevrolet",
+          "spin",
+          "chevrolet",
+          "spin"
+        ]
+      },
+      {
+        "date": "2017-05-19",
+        "summary": "Chevrolet Onix Joy",
+        "severity": "média",
+        "modelTokens": [
+          "chevrolet",
+          "onix",
+          "joy",
+          "chevrolet",
+          "onix",
+          "joy"
+        ]
+      }
+    ],
+    "Honda": [
+      {
+        "date": "2017-09-25",
+        "summary": "Honda CRF 450R",
+        "severity": "média",
+        "modelTokens": [
+          "honda",
+          "crf",
+          "450r",
+          "honda",
+          "crf",
+          "450r"
+        ]
+      },
+      {
+        "date": "2017-08-30",
+        "summary": "Honda Accord",
+        "severity": "alta",
+        "modelTokens": [
+          "honda",
+          "accord",
+          "accord"
+        ]
+      },
+      {
+        "date": "2017-02-01",
+        "summary": "Honda GL 1800 Gold Wing",
+        "severity": "baixa",
+        "modelTokens": [
+          "honda",
+          "1800",
+          "gold",
+          "wing",
+          "honda",
+          "1800",
+          "gold",
+          "wing"
+        ]
+      },
+      {
+        "date": "2017-01-30",
+        "summary": "Civic, Fit, City e Accord",
+        "severity": "baixa",
+        "modelTokens": [
+          "civic",
+          "fit",
+          "city",
+          "accord",
+          "civic",
+          "honda",
+          "fit",
+          "honda",
+          "city",
+          "accord"
+        ]
+      }
+    ],
+    "Mitsubishi": [
+      {
+        "date": "2017-12-11",
+        "summary": "Mitsubishi LANCER, ASX, LANCER EVOLUTION X, OUTLANDER E OUTLANDER PHEV",
+        "severity": "média",
+        "modelTokens": [
+          "mitsubishi",
+          "lancer",
+          "asx",
+          "lancer",
+          "evolution",
+          "outlander",
+          "outlander",
+          "phev",
+          "lancer",
+          "lancer",
+          "evo",
+          "outlander",
+          "outlander",
+          "phev",
+          "asx"
+        ]
+      },
+      {
+        "date": "2017-10-19",
+        "summary": "Mitsubishi modelo PAJERO FULL",
+        "severity": "média",
+        "modelTokens": [
+          "mitsubishi",
+          "modelo",
+          "pajero",
+          "full",
+          "pajero",
+          "full"
+        ]
+      },
+      {
+        "date": "2017-07-10",
+        "summary": "Mitsubishi Outlander Phev",
+        "severity": "média",
+        "modelTokens": [
+          "mitsubishi",
+          "outlander",
+          "phev",
+          "outlander",
+          "phev"
+        ]
+      }
+    ],
+    "Hyundai": [
+      {
+        "date": "2017-10-11",
+        "summary": "Hyundai HB20 e HB20S",
+        "severity": "média",
+        "modelTokens": [
+          "hyundai",
+          "hb20",
+          "hb20s",
+          "hyundai",
+          "hb20",
+          "hb20s"
+        ]
+      },
+      {
+        "date": "2017-09-01",
+        "summary": "Hyundai Santa Fé e Grand Santa Fé",
+        "severity": "média",
+        "modelTokens": [
+          "hyundai",
+          "santa",
+          "grand",
+          "santa",
+          "hyundai",
+          "santa",
+          "grand",
+          "santa"
+        ]
+      }
+    ],
+    "Land Rover": [
+      {
+        "date": "2017-07-10",
+        "summary": "Jaguar F-Pace",
+        "severity": "alta",
+        "modelTokens": [
+          "jaguar",
+          "pace",
+          "jaguar",
+          "pace"
+        ]
+      },
+      {
+        "date": "2017-06-12",
+        "summary": "Range Rover Vogue, Range Rover Sport e Discovery Sport",
+        "severity": "média",
+        "modelTokens": [
+          "range",
+          "rover",
+          "vogue",
+          "range",
+          "rover",
+          "sport",
+          "discovery",
+          "sport",
+          "range",
+          "rover",
+          "vogue",
+          "range",
+          "rover",
+          "sport",
+          "discovery",
+          "sport"
+        ]
+      },
+      {
+        "date": "2017-04-27",
+        "summary": "Jaguar XE e F-Type",
+        "severity": "média",
+        "modelTokens": [
+          "jaguar",
+          "type",
+          "jaguar",
+          "type"
+        ]
+      },
+      {
+        "date": "2017-03-13",
+        "summary": "Land Rover Sport",
+        "severity": "média",
+        "modelTokens": [
+          "land",
+          "rover",
+          "sport",
+          "land",
+          "rover",
+          "modelo",
+          "land",
+          "rover",
+          "sport"
+        ]
+      },
+      {
+        "date": "2017-03-10",
+        "summary": "Jaguar XF 2.0L GTDi",
+        "severity": "alta",
+        "modelTokens": [
+          "jaguar",
+          "gtdi",
+          "jaguar",
+          "gtdi"
+        ]
+      },
+      {
+        "date": "2017-03-03",
+        "summary": "Yamaha, FAZER 250, LANDER 250, TÉNÉRÉ 250, R3 e MT03",
+        "severity": "média",
+        "modelTokens": [
+          "yamaha",
+          "fazer",
+          "250",
+          "lander",
+          "250",
+          "ténéré",
+          "250",
+          "mt03",
+          "yamaha",
+          "fazer",
+          "250",
+          "lander",
+          "250",
+          "ténéré",
+          "250",
+          "mt03"
+        ]
+      }
+    ],
+    "Mercedes-Benz": [
+      {
+        "date": "2017-12-08",
+        "summary": "MB, classes B ,C e GLA",
+        "severity": "alta",
+        "modelTokens": [
+          "classes",
+          "gla",
+          "classes",
+          "gla"
+        ]
+      },
+      {
+        "date": "2017-09-14",
+        "summary": "Classes A, B, C, E, CLA, GLA, GLC",
+        "severity": "alta",
+        "modelTokens": [
+          "classes",
+          "cla",
+          "gla",
+          "glc",
+          "mercedes",
+          "benz",
+          "classes",
+          "cla",
+          "gla",
+          "glc"
+        ]
+      },
+      {
+        "date": "2017-09-08",
+        "summary": "Mercedes-Benz Classes GL, GLE e GLS",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classes",
+          "gle",
+          "gls",
+          "mercedes",
+          "benz",
+          "classes",
+          "gle",
+          "gls"
+        ]
+      },
+      {
+        "date": "2017-07-17",
+        "summary": "Classe A 250, CLA 200, CLA 250 E GLA 250",
+        "severity": "média",
+        "modelTokens": [
+          "classe",
+          "250",
+          "cla",
+          "200",
+          "cla",
+          "250",
+          "gla",
+          "250",
+          "classe",
+          "250",
+          "cla",
+          "200",
+          "cla",
+          "250",
+          "gla",
+          "250"
+        ]
+      },
+      {
+        "date": "2017-07-10",
+        "summary": "Mercedes-Benz, modelos Extrapesados, Cavalos Mecânicos 6x4 2644, 2646, 2651 e 2655",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "modelos",
+          "extrapesados",
+          "cavalos",
+          "mecânicos",
+          "6x4",
+          "2644",
+          "2646",
+          "2651",
+          "2655",
+          "mercedes",
+          "benz",
+          "cavalos",
+          "mecânicos",
+          "6x4",
+          "2644",
+          "2646",
+          "2651",
+          "2655"
+        ]
+      },
+      {
+        "date": "2017-07-04",
+        "summary": "Mercedes-Benz Classe E 250",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "250",
+          "mercedes",
+          "benz",
+          "classe",
+          "250"
+        ]
+      },
+      {
+        "date": "2017-07-03",
+        "summary": "Mercedes-Benz Classe G 63 AMG",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "amg",
+          "mercedes",
+          "benz",
+          "classe",
+          "amg"
+        ]
+      },
+      {
+        "date": "2017-06-30",
+        "summary": "Mercedes-Benz Classes A200, B200 e CLA200",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classes",
+          "a200",
+          "b200",
+          "cla200",
+          "mercedes",
+          "benz",
+          "classes",
+          "a200",
+          "b200",
+          "cla200"
+        ]
+      },
+      {
+        "date": "2017-06-21",
+        "summary": "Mercedes-Benz Classe SLK 300, SLC 300 e SLC 43 AMG",
+        "severity": "baixa",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "slk",
+          "300",
+          "slc",
+          "300",
+          "slc",
+          "amg",
+          "mercedes",
+          "benz",
+          "classe",
+          "slk",
+          "300",
+          "slc",
+          "300",
+          "slc",
+          "amg"
+        ]
+      },
+      {
+        "date": "2017-06-09",
+        "summary": "Mercedes-Benz Classe CLA 200",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "cla",
+          "200",
+          "mercedes",
+          "benz",
+          "classe",
+          "cla",
+          "200"
+        ]
+      },
+      {
+        "date": "2017-05-11",
+        "summary": "Mercedes-Benz Classe C 180 Coupé",
+        "severity": "média",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "180",
+          "coupé",
+          "mercedes",
+          "benz",
+          "classe",
+          "180",
+          "coupé"
+        ]
+      },
+      {
+        "date": "2017-04-25",
+        "summary": "VITO Furgão, modelo 111",
+        "severity": "baixa",
+        "modelTokens": [
+          "vito",
+          "furgão",
+          "modelo",
+          "111",
+          "vito",
+          "furgão"
+        ]
+      },
+      {
+        "date": "2017-03-09",
+        "summary": "Mercedes-Benz, Classe E 250, modelos 2015 e 2016,  em razão da possibilidade de falha na solda dos contatos elétricos do",
+        "severity": "baixa",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "250",
+          "modelos",
+          "2015",
+          "2016",
+          "razão",
+          "possibilidade",
+          "falha",
+          "solda",
+          "dos",
+          "contatos",
+          "elétricos",
+          "módulo",
+          "assistência",
+          "direção",
+          "mercedes",
+          "benz",
+          "classe",
+          "250"
+        ]
+      },
+      {
+        "date": "2017-02-16",
+        "summary": "Mercedes-Benz Classe ML 350 Sport Diesel - Parafusos dos eixos dianteiro e traseiro não terem sido montados corretamente",
+        "severity": "baixa",
+        "modelTokens": [
+          "mercedes",
+          "benz",
+          "classe",
+          "350",
+          "sport",
+          "diesel",
+          "parafusos",
+          "dos",
+          "eixos",
+          "dianteiro",
+          "traseiro",
+          "não",
+          "terem",
+          "sido",
+          "montados",
+          "corretamente",
+          "mercedes",
+          "benz",
+          "classe",
+          "350",
+          "sport",
+          "diesel"
+        ]
+      },
+      {
+        "date": "2017-01-19",
+        "summary": "GLE 450 AMG, GLE 63 AMG, GLE 63 AMG Coupé, GL 63 AMG, GLS 63 AMG e GLE 400 Coupé",
+        "severity": "baixa",
+        "modelTokens": [
+          "gle",
+          "450",
+          "amg",
+          "gle",
+          "amg",
+          "gle",
+          "amg",
+          "coupé",
+          "amg",
+          "gls",
+          "amg",
+          "gle",
+          "400",
+          "coupé",
+          "mercedes",
+          "benz",
+          "classes",
+          "gle",
+          "450",
+          "amg",
+          "gle",
+          "amg",
+          "gle",
+          "amg",
+          "coupé",
+          "amg",
+          "gls",
+          "amg",
+          "gle",
+          "400",
+          "coupé"
+        ]
+      }
+    ],
+    "Nissan": [
+      {
+        "date": "2017-07-28",
+        "summary": "Nissan Frontier, Livina, Livina X-Gear, Grand Livina, Tiida e Tiida Sedan",
+        "severity": "média",
+        "modelTokens": [
+          "nissan",
+          "frontier",
+          "livina",
+          "livina",
+          "gear",
+          "grand",
+          "livina",
+          "tiida",
+          "tiida",
+          "sedan",
+          "tiida",
+          "tiida",
+          "sedan",
+          "livina",
+          "grand",
+          "livina",
+          "livina",
+          "gear",
+          "frontier"
+        ]
+      }
+    ],
+    "Peugeot": [
+      {
+        "date": "2017-02-03",
+        "summary": "Citroën, modelos C4 Lounge 2.0 Flex",
+        "severity": "alta",
+        "modelTokens": [
+          "citroën",
+          "modelos",
+          "lounge",
+          "flex",
+          "citroën",
+          "lounge"
+        ]
+      }
+    ],
+    "Porsche": [
+      {
+        "date": "2017-05-01",
+        "summary": "Modelo Boxster 718",
+        "severity": "média",
+        "modelTokens": [
+          "modelo",
+          "boxster",
+          "718",
+          "porsche",
+          "boxster",
+          "718"
+        ]
+      },
+      {
+        "date": "2017-03-01",
+        "summary": "911 Carrera (991), 911 Carrera S (991), 911 Carrera 4 (991), 911 Carrera 4S (991), 911 Targa 4 (991), 911 Targa 4S (991)",
+        "severity": "média",
+        "modelTokens": [
+          "911",
+          "carrera",
+          "991",
+          "911",
+          "carrera",
+          "991",
+          "911",
+          "carrera",
+          "991",
+          "911",
+          "carrera",
+          "991",
+          "911",
+          "targa",
+          "991",
+          "911",
+          "targa",
+          "991",
+          "718",
+          "boxster",
+          "982",
+          "718",
+          "boxster",
+          "982",
+          "718",
+          "cayman",
+          "982",
+          "718",
+          "cayman",
+          "982",
+          "911",
+          "carrera",
+          "911",
+          "carrera",
+          "911",
+          "carrera",
+          "911",
+          "carrera",
+          "911",
+          "targa",
+          "911",
+          "targa",
+          "718",
+          "boxster",
+          "718",
+          "boxster",
+          "718",
+          "cayman",
+          "718",
+          "cayman"
+        ]
+      }
+    ],
+    "Renault": [
+      {
+        "date": "2017-02-23",
+        "summary": "Renault Novo Sandero, Novo Logan, Novo Duster e Oroch",
+        "severity": "média",
+        "modelTokens": [
+          "renault",
+          "novo",
+          "sandero",
+          "novo",
+          "logan",
+          "novo",
+          "duster",
+          "oroch",
+          "renault",
+          "sandero",
+          "logan",
+          "duster",
+          "novos",
+          "oroch"
+        ]
+      },
+      {
+        "date": "2017-01-26",
+        "summary": "Renault Sandero e Duster",
+        "severity": "média",
+        "modelTokens": [
+          "renault",
+          "sandero",
+          "duster",
+          "renault",
+          "sandero",
+          "duster"
+        ]
+      }
+    ],
+    "Toyota": [
+      {
+        "date": "2017-08-16",
+        "summary": "Corolla XRS",
+        "severity": "média",
+        "modelTokens": [
+          "corolla",
+          "xrs",
+          "corolla",
+          "xrs"
+        ]
+      },
+      {
+        "date": "2017-06-19",
+        "summary": "Toyota Corolla 2016",
+        "severity": "média",
+        "modelTokens": [
+          "toyota",
+          "corolla",
+          "2016",
+          "toyota",
+          "corolla"
+        ]
+      },
+      {
+        "date": "2017-06-19",
+        "summary": "Toyota Hilux e Sw4",
+        "severity": "média",
+        "modelTokens": [
+          "toyota",
+          "hilux",
+          "sw4",
+          "hilux",
+          "sw4"
+        ]
+      },
+      {
+        "date": "2017-04-04",
+        "summary": "Toyota Etios (airbag do lado do motorista e passageiro)",
+        "severity": "média",
+        "modelTokens": [
+          "toyota",
+          "etios",
+          "airbag",
+          "lado",
+          "motorista",
+          "passageiro",
+          "toyota",
+          "etios",
+          "fabricados",
+          "entre",
+          "agosto",
+          "2012",
+          "dezembro",
+          "2014",
+          "toyota",
+          "etios",
+          "fabricados",
+          "entre",
+          "janeiro",
+          "dezembro",
+          "2014"
+        ]
+      },
+      {
+        "date": "2017-04-04",
+        "summary": "Toyota Corolla",
+        "severity": "média",
+        "modelTokens": [
+          "toyota",
+          "corolla",
+          "toyota",
+          "corolla"
+        ]
+      },
+      {
+        "date": "2017-01-19",
+        "summary": "Toyota, marca Lexus, modelo IS 300",
+        "severity": "média",
+        "modelTokens": [
+          "toyota",
+          "marca",
+          "lexus",
+          "modelo",
+          "300",
+          "lexus"
+        ]
+      }
+    ],
+    "Volkswagen": [
+      {
+        "date": "2017-05-10",
+        "summary": "Up!, novo Gol, novo Voyage, nova Saveiro, Fox, CrossFox, Spacefox e Space Cross",
+        "severity": "média",
+        "modelTokens": [
+          "novo",
+          "gol",
+          "novo",
+          "voyage",
+          "nova",
+          "saveiro",
+          "fox",
+          "crossfox",
+          "spacefox",
+          "space",
+          "cross",
+          "novo",
+          "gol",
+          "novo",
+          "voyage",
+          "nova",
+          "saveiro",
+          "fox",
+          "crossfox",
+          "spacefox",
+          "space",
+          "cross"
+        ]
+      },
+      {
+        "date": "2017-04-12",
+        "summary": "Amarok e Passat",
+        "severity": "média",
+        "modelTokens": [
+          "amarok",
+          "passat",
+          "amarok",
+          "passat"
+        ]
+      },
+      {
+        "date": "2017-04-12",
+        "summary": "Passat e Golf Variant",
+        "severity": "média",
+        "modelTokens": [
+          "passat",
+          "golf",
+          "variant",
+          "passat",
+          "golf",
+          "variant"
+        ]
+      },
+      {
+        "date": "2017-03-07",
+        "summary": "Jetta, Jetta Variant e Eos",
+        "severity": "média",
+        "modelTokens": [
+          "jetta",
+          "jetta",
+          "variant",
+          "eos",
+          "jetta",
+          "jetta",
+          "variant",
+          "eos"
+        ]
+      }
+    ],
+    "Volvo": [
+      {
+        "date": "2017-07-05",
+        "summary": "VOLVO XC90 ano/modelo 2017",
+        "severity": "média",
+        "modelTokens": [
+          "volvo",
+          "xc90",
+          "ano",
+          "modelo",
+          "2017",
+          "volvo",
+          "xc90"
+        ]
+      },
+      {
+        "date": "2017-03-15",
+        "summary": "VOLVO XC90 modelos 2017",
+        "severity": "média",
+        "modelTokens": [
+          "volvo",
+          "xc90",
+          "modelos",
+          "2017",
+          "volvo",
+          "xc90"
+        ]
+      },
+      {
+        "date": "2017-03-15",
+        "summary": "VOLVO XC90",
+        "severity": "média",
+        "modelTokens": [
+          "volvo",
+          "xc90",
+          "volvo",
+          "xc90"
+        ]
+      },
+      {
+        "date": "2017-01-16",
+        "summary": "Volvo, modelos V40, V40 CC, S60, V60 e XC60, ano/modelo 2017",
+        "severity": "média",
+        "modelTokens": [
+          "volvo",
+          "modelos",
+          "v40",
+          "v40",
+          "s60",
+          "v60",
+          "xc60",
+          "ano",
+          "modelo",
+          "2017",
+          "volvo",
+          "v40",
+          "v40cc",
+          "s60",
+          "v60",
+          "xc60"
+        ]
+      }
+    ]
+  }
+}
